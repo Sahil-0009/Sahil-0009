@@ -52,13 +52,32 @@ Hello! I'm **Abu Jubair Md Sahil**, a Computer Science and Engineering graduate 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajm_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil.dev2911@gmail.com) 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahil-0009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sahil-0009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil-0009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<!-- GitHub Profile Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil-0009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Sahil's GitHub Stats"/>
+
+<!-- GitHub Streak Stats -->
+<img width="49%" src="https://streak-stats.demolab.com?user=Sahil-0009&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-0009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-0009&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
+
+</div>
 
 ---
 
